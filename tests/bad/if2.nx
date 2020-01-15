@@ -1,7 +1,0 @@
-// se 'else' for obrigatorio
-
-var x : int = 3;
-
-if (x < 5){
-    x := 3;
-}

@@ -1,3 +1,0 @@
-// instruções devem acabar com ';'
-
-var x := int 12

@@ -26,7 +26,7 @@ $(BIN):$(CMO)
 	ocamlyacc -v $<
 
 clean:
-	rm -f *.cm[io] *.o *~ $(BIN) $(GENERATED) parser.output
+	rm -f *.cm[io] *.o *~ $(BIN) $(GENERATED) parser.output *.s a.out
 
 .depend depend:$(GENERATED)
 	rm -f .depend

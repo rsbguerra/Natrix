@@ -1,5 +1,0 @@
-// verificar se o ciclo `for` funciona
-
-foreach i in 0..5 do {
-    print_int(i);
-}
